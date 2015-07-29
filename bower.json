@@ -1,0 +1,23 @@
+{
+  "name": "angular-resettableForm",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Crisp <daniel@danielcrisp.com>"
+  ],
+  "description": "Angular directive which modifies the behaviour of ngForm, form and ngModel to add support for the $setPristine method in Angular v1.0.x",
+  "main": "angular-resettableForm.js",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.0"
+  }
+}
