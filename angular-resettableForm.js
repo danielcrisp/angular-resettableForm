@@ -50,9 +50,9 @@
                                     control.$setPristine();
                                 });
                             }
-                        },
+                        }
                     };
-                },
+                }
             };
             return isNgForm ? angular.extend(angular.copy(formDirective), {
                 restrict: 'EAC'
@@ -74,7 +74,7 @@
                     this.$pristine = true;
                     element.removeClass(DIRTY_CLASS).addClass(PRISTINE_CLASS);
                 }
-            },
+            }
         };
     });
 
