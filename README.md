@@ -1,5 +1,7 @@
 # angular-resettableForm
+
 > Adds $setPristine method to ngForm for AngularJS v1.0.x
+
 ---
 This module was originally written by the user [Jupiter](http://stackoverflow.com/users/2335217/jupiter) on StackOverflow.
 
