@@ -1,13 +1,19 @@
 # angular-resettableForm
-Adds $setPristine method to ngForm for AngularJS v1.0.x
-
+> Adds $setPristine method to ngForm for AngularJS v1.0.x
+---
 This module was originally written by the user [Jupiter](http://stackoverflow.com/users/2335217/jupiter) on StackOverflow.
 
 I have published it here and on Bower so I can install it in my projects.
 
 All credit goes to Jupiter!
 
-Original post: [http://stackoverflow.com/questions/12603914/reset-form-to-pristine-state-angularjs-1-0-x](http://stackoverflow.com/questions/12603914/reset-form-to-pristine-state-angularjs-1-0-x)
+[Original post here](http://stackoverflow.com/questions/12603914/reset-form-to-pristine-state-angularjs-1-0-x)
+
+## Remember
+
+**You only need to use this if you are using AngularJS v1.0.x.**
+
+The `$setPristine` method is [available](https://code.angularjs.org/1.1.5/docs/api/ng.directive:form.FormController) in AngularJS v1.1.x onwards.
 
 ## Installation
 
