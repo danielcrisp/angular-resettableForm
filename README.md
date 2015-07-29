@@ -2,16 +2,7 @@
 
 > **Adds $setPristine method to ngForm for AngularJS v1.0.x**
 
-
-This module was originally written by the user [Jupiter](http://stackoverflow.com/users/2335217/jupiter) on StackOverflow.
-
-I have published it here and on Bower so I can install it in my projects.
-
-All credit goes to Jupiter!
-
-[Original post here](http://stackoverflow.com/questions/12603914/reset-form-to-pristine-state-angularjs-1-0-x)
-
-## Remember
+## Note
 
 **You only need to use this if you are using AngularJS v1.0.x.**
 
@@ -68,4 +59,10 @@ This could be applied to a button in your UI:
 </div>
 ```
 
-Thanks Jupiter!
+## Credit
+
+This solution was originally posted by the user [Jupiter](http://stackoverflow.com/users/2335217/jupiter) on [StackOverflow](http://stackoverflow.com/questions/12603914/reset-form-to-pristine-state-angularjs-1-0-x).
+
+I have published it here and on Bower so I can install it in my projects.
+
+All credit goes to Jupiter.
